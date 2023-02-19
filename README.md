@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zubayer Tahmid</h1>
 <h3 align="center">A passionate Brand Strategist & Software Engineering student from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src=“https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif”/>
+<img align="right" alt="Coding" width="400" src=“https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif” />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubayertahmid&label=Profile%20views&color=0e75b6&style=flat" alt="zubayertahmid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zubayertahmid" alt="zubayertahmid" /></a> </p>
