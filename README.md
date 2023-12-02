@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zubayertahmid" alt="zubayertahmid" /></a> </p>
 
-- 🔭 I’m currently working on [Nahl- A personal finance App](https://github.com/rr-uchchash360/Nah-l)
+- 🔭 I’m currently working on [Therapia- A unique software for dealing with frozen shoulder patients]([https://github.com/rr-uchchash360/Therapia])
 
 - 🌱 I’m currently learning **Algorithms, Flutter, Firebase and Brand strategy**
 
